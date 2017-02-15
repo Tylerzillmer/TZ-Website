@@ -10,5 +10,6 @@ p {
 img {
   border-style:solid;
   border-radius:15px;
+  border-color:red;
   
 }
