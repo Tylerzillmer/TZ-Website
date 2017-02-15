@@ -8,5 +8,7 @@ p {
   color:white;
 }
 img {
+  border-style:solid;
   border-radius:15px;
+  
 }
