@@ -1,12 +1,12 @@
 h1 {
 color:blue;
+  text-decoration:underline;
 }
 body {
   background-color:gray;
 }
 p {
   color:white;
-  text-decoration:underline;
 }
 img {
   border-radius:10px;
