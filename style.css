@@ -12,7 +12,8 @@ img {
   border-radius:10px;
   border-style: solid;
   border-color:blue;
-  border-width:3px;
+  border-width:3px; 
+  margin:15px;
 }
 ul {
     list-style-type: none;
