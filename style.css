@@ -1,5 +1,5 @@
 h1 {
-color:green;
+color:blueviolet;
   text-decoration:underline;
 }
 body {
@@ -33,7 +33,7 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-  color:green;
+  color:blueviolet;
 }
 
 /* Change the link color to #111 (black) on hover */
