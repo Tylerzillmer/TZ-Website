@@ -6,6 +6,7 @@ body {
 }
 p {
   color:white;
+  text-decoration:underline;
 }
 img {
   border-radius:10px;
