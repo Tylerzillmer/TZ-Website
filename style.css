@@ -1,10 +1,10 @@
 h1 {
-color:LightCoral;
+color:Tomato;
 }
 h2 {
   color:dodgerblue;
 h3 {
-color:LightCoral
+color:Tomato;
 }
 }
 body {
@@ -38,7 +38,7 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-  color:LightCoral;
+  color:Tomato;
 }
 
 /* Change the link color to #111 (black) on hover */
