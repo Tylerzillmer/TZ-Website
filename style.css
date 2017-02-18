@@ -12,8 +12,8 @@ body {
 }
 p {
   color:white;
-  font size:10px;
-  
+  font-size:10px;
+  text-align:center;
 }
 img {
   border-radius:10px;
