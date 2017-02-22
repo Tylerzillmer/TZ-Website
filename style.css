@@ -47,3 +47,10 @@ li a {
 li a:hover {
     background-color: #111;
 }
+table {
+    width: 100%;
+}
+
+th {
+    height: 50px;
+}
