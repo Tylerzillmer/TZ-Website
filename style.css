@@ -42,6 +42,9 @@ li a {
     text-decoration: none;
     color:Tomato;
 }
+table, th, td {
+    border: 1px solid black;
+}
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
