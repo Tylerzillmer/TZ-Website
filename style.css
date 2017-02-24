@@ -13,10 +13,8 @@ body {
 p {
   color:white;
   font-size:14px;
-  text-align:left;
+  text-align:right;
   font-family:"Times New Roman", Times, serif;
-  font-style:normal;
-
 }
 img {
   border-radius:10px;
