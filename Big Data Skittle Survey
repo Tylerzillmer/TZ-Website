@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>My Photography</title>
+<link rel="stylesheet" href="https://tylerzillmer.github.io/TZ-Website/style.css">
+</head>
+<body>
+<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="projects.html">Projects</a></li>
+  <li><a href="hobbies.html">Hobbies</a></li>
+  <li><a href="photography.html">Photography</a></li>
+</ul>
+<h1> My Photography </h1>
+<p> This page will contain some of my Photography.<br>
+  (eventually. I will countinue to work on this page after this website is due)<br>
+  but for now I am just containing the bare minimum just for this page for timing reasons.<br>
+<img src="20160802_194854.jpg" height="300" width="500"alt="Pepper">
+  <p> This first picture I think is pretty artsy,I took it last summer at my house.
+  </html>
